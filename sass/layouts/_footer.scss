@@ -1,0 +1,11 @@
+.footer {
+  background-color: $dark-bg;
+}
+
+.footer__info {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  padding-top: 60px;
+  padding-bottom: 60px;
+}

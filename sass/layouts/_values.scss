@@ -1,0 +1,25 @@
+.values__item {
+  flex-basis: calc((100% - #{$card-set-gap} * 4) / 4);
+}
+
+.values__bg-icon {
+  padding: 25px 100px;
+  margin-bottom: 30px;
+
+  height: 120px;
+  background-color: $light-bg;
+}
+
+.values__point {
+  margin-bottom: 10px;
+
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 1.14;
+  text-transform: uppercase;
+}
+
+.values__text {
+  line-height: 1.71;
+  color: $alt-text-color;
+}
