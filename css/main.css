@@ -1,46 +1,4 @@
-@font-face {
-  font-family: 'Roboto';
-  font-style: normal;
-  font-weight: 400;
-  src: url("../fonts/roboto-v27-latin-regular.woff");
-  src: url("../fonts/roboto-v27-latin-regular.woff2");
-}
-
-@font-face {
-  font-family: 'Roboto';
-  font-style: normal;
-  font-weight: 500;
-  src: url("../fonts/roboto-v27-latin-500.woff");
-  src: url("../fonts/roboto-v27-latin-500.woff2");
-}
-
-/* roboto-700 - latin */
-@font-face {
-  font-family: 'Roboto';
-  font-style: normal;
-  font-weight: 700;
-  src: url("../fonts/roboto-v27-latin-700.woff");
-  src: url("../fonts/roboto-v27-latin-700.woff2");
-}
-
-/* roboto-900 - latin */
-@font-face {
-  font-family: 'Roboto';
-  font-style: normal;
-  font-weight: 900;
-  src: url("../fonts/roboto-v27-latin-900.woff");
-  src: url("../fonts/roboto-v27-latin-900.woff2");
-}
-
-/* raleway-700 - latin */
-@font-face {
-  font-family: 'Raleway';
-  font-style: normal;
-  font-weight: 700;
-  src: url("../fonts/raleway-v19-latin-700.woff");
-  src: url("../fonts/raleway-v19-latin-700.woff2");
-}
-
+/* @import './fonts'; */
 textarea {
   resize: none;
 }
