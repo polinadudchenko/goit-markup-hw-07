@@ -45,8 +45,8 @@
   font-family: 'DejaVuSansMono';
   font-style: normal;
   font-weight: 700;
-  src: url("../../fonts/DejaVuSansMono.woff");
-  src: url("../../fonts/DejaVuSansMono.woff2");
+  src: url("../fonts/DejaVuSansMono.woff");
+  src: url("../fonts/DejaVuSansMono.woff2");
 }
 
 textarea {
